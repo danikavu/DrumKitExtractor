@@ -13,6 +13,13 @@ The current implementation of this project requires CUDA support. CUDA is a para
 
 Please ensure that you have a CUDA-capable GPU and the corresponding CUDA toolkit and drivers installed to use this implementation effectively.
 
+## Installation
+
+In a python 3.11 environment (ex conda, venv)
+```
+pip install -r requirements.txt
+```
+
 ## Command-Line Usage
 
 To extract drum samples from an audio file, you can use the following command format:
